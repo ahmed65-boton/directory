@@ -1,0 +1,4 @@
+ 
+#terminal {width:90%%;margin:50px auto;border:2px solid lime;padding:20px;background:#000;} 
+#input {width:100%%;background:black;color:lime;border:none;font-size:18px;} 
+#input:focus {outline:none;} 

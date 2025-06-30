@@ -1,2 +1,1 @@
-# directory
-its a directory for my code of a animation
+ hello in this repo there are a short story written in code if you decode it you will find that the code wont actualy work
